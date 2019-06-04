@@ -1,0 +1,13 @@
+git@47.97.217.66:/home/git/repos/front/frontSystem.git PC 后台 + App H5
+
+git@47.97.217.66:/home/git/repos/front/hzyh5.git 患者端公众号 
+
+git@47.97.217.66:/home/git/repos/front/doctor-h5.git 医生提现公众号
+
+git@47.97.217.66:/home/git/repos/front/official.git 官网
+
+git clone git@47.97.217.66:/home/git/repos/front/backStage.git财务
+
+git@47.97.217.66:/home/git/repos/front/inquiry.git门诊
+
+git clone git@47.97.217.66:/home/git/repos/front/pharmacyManage.git药房
